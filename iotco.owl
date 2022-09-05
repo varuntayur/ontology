@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
-<rdf:RDF xmlns="http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#"
-     xml:base="http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co"
+<rdf:RDF xmlns="https://github.com/varuntayur/ontology/blob/main/iotco.owl#"
+     xml:base="https://github.com/varuntayur/ontology/blob/main/iotco.owl"
      xmlns:dc="http://purl.org/dc/elements/1.1/"
      xmlns:ns="http://creativecommons.org/ns#"
      xmlns:owl="http://www.w3.org/2002/07/owl#"
@@ -29,77 +29,77 @@
     
 
 
-    <!-- http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#consumes -->
+    <!-- https://github.com/varuntayur/ontology/blob/main/iotco.owl#consumes -->
 
-    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#consumes"/>
+    <owl:ObjectProperty rdf:about="https://github.com/varuntayur/ontology/blob/main/iotco.owl#consumes"/>
     
 
 
-    <!-- http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#exposes -->
+    <!-- https://github.com/varuntayur/ontology/blob/main/iotco.owl#exposes -->
 
-    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#exposes"/>
+    <owl:ObjectProperty rdf:about="https://github.com/varuntayur/ontology/blob/main/iotco.owl#exposes"/>
     
 
 
-    <!-- http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#governedBy -->
+    <!-- https://github.com/varuntayur/ontology/blob/main/iotco.owl#governedBy -->
 
-    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#governedBy"/>
+    <owl:ObjectProperty rdf:about="https://github.com/varuntayur/ontology/blob/main/iotco.owl#governedBy"/>
     
 
 
-    <!-- http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#hasA -->
+    <!-- https://github.com/varuntayur/ontology/blob/main/iotco.owl#hasA -->
 
-    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#hasA"/>
+    <owl:ObjectProperty rdf:about="https://github.com/varuntayur/ontology/blob/main/iotco.owl#hasA"/>
     
 
 
-    <!-- http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#hasContext -->
+    <!-- https://github.com/varuntayur/ontology/blob/main/iotco.owl#hasContext -->
 
-    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#hasContext"/>
+    <owl:ObjectProperty rdf:about="https://github.com/varuntayur/ontology/blob/main/iotco.owl#hasContext"/>
     
 
 
-    <!-- http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#hasLatitude -->
+    <!-- https://github.com/varuntayur/ontology/blob/main/iotco.owl#hasLatitude -->
 
-    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#hasLatitude"/>
+    <owl:ObjectProperty rdf:about="https://github.com/varuntayur/ontology/blob/main/iotco.owl#hasLatitude"/>
     
 
 
-    <!-- http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#hasLongitude -->
+    <!-- https://github.com/varuntayur/ontology/blob/main/iotco.owl#hasLongitude -->
 
-    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#hasLongitude">
+    <owl:ObjectProperty rdf:about="https://github.com/varuntayur/ontology/blob/main/iotco.owl#hasLongitude">
         <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
     </owl:ObjectProperty>
     
 
 
-    <!-- http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#hasMethod -->
+    <!-- https://github.com/varuntayur/ontology/blob/main/iotco.owl#hasMethod -->
 
-    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#hasMethod"/>
+    <owl:ObjectProperty rdf:about="https://github.com/varuntayur/ontology/blob/main/iotco.owl#hasMethod"/>
     
 
 
-    <!-- http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#hasPolicy -->
+    <!-- https://github.com/varuntayur/ontology/blob/main/iotco.owl#hasPolicy -->
 
-    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#hasPolicy"/>
+    <owl:ObjectProperty rdf:about="https://github.com/varuntayur/ontology/blob/main/iotco.owl#hasPolicy"/>
     
 
 
-    <!-- http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#is -->
+    <!-- https://github.com/varuntayur/ontology/blob/main/iotco.owl#is -->
 
-    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#is"/>
+    <owl:ObjectProperty rdf:about="https://github.com/varuntayur/ontology/blob/main/iotco.owl#is"/>
     
 
 
-    <!-- http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#isUnder -->
+    <!-- https://github.com/varuntayur/ontology/blob/main/iotco.owl#isUnder -->
 
-    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#isUnder"/>
+    <owl:ObjectProperty rdf:about="https://github.com/varuntayur/ontology/blob/main/iotco.owl#isUnder"/>
     
 
 
-    <!-- http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#observes -->
+    <!-- https://github.com/varuntayur/ontology/blob/main/iotco.owl#observes -->
 
-    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#observes">
+    <owl:ObjectProperty rdf:about="https://github.com/varuntayur/ontology/blob/main/iotco.owl#observes">
         <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
     </owl:ObjectProperty>
     
@@ -116,36 +116,36 @@
     
 
 
-    <!-- http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#longitude -->
+    <!-- https://github.com/varuntayur/ontology/blob/main/iotco.owl#longitude -->
 
-    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#longitude"/>
+    <owl:DatatypeProperty rdf:about="https://github.com/varuntayur/ontology/blob/main/iotco.owl#longitude"/>
     
 
 
-    <!-- http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#mName -->
+    <!-- https://github.com/varuntayur/ontology/blob/main/iotco.owl#mName -->
 
-    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#mName">
-        <rdfs:domain rdf:resource="http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#Method"/>
+    <owl:DatatypeProperty rdf:about="https://github.com/varuntayur/ontology/blob/main/iotco.owl#mName">
+        <rdfs:domain rdf:resource="https://github.com/varuntayur/ontology/blob/main/iotco.owl#Method"/>
         <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
     </owl:DatatypeProperty>
     
 
 
-    <!-- http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#password -->
+    <!-- https://github.com/varuntayur/ontology/blob/main/iotco.owl#password -->
 
-    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#password"/>
+    <owl:DatatypeProperty rdf:about="https://github.com/varuntayur/ontology/blob/main/iotco.owl#password"/>
     
 
 
-    <!-- http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#roleName -->
+    <!-- https://github.com/varuntayur/ontology/blob/main/iotco.owl#roleName -->
 
-    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#roleName"/>
+    <owl:DatatypeProperty rdf:about="https://github.com/varuntayur/ontology/blob/main/iotco.owl#roleName"/>
     
 
 
-    <!-- http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#userName -->
+    <!-- https://github.com/varuntayur/ontology/blob/main/iotco.owl#userName -->
 
-    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#userName"/>
+    <owl:DatatypeProperty rdf:about="https://github.com/varuntayur/ontology/blob/main/iotco.owl#userName"/>
     
 
 
@@ -160,139 +160,139 @@
     
 
 
-    <!-- http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#Consumption -->
+    <!-- https://github.com/varuntayur/ontology/blob/main/iotco.owl#Consumption -->
 
-    <owl:Class rdf:about="http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#Consumption">
-        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#Energy"/>
+    <owl:Class rdf:about="https://github.com/varuntayur/ontology/blob/main/iotco.owl#Consumption">
+        <rdfs:subClassOf rdf:resource="https://github.com/varuntayur/ontology/blob/main/iotco.owl#Energy"/>
         <rdfs:subClassOf>
             <owl:Restriction>
-                <owl:onProperty rdf:resource="http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#governedBy"/>
-                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#Policy"/>
+                <owl:onProperty rdf:resource="https://github.com/varuntayur/ontology/blob/main/iotco.owl#governedBy"/>
+                <owl:someValuesFrom rdf:resource="https://github.com/varuntayur/ontology/blob/main/iotco.owl#Policy"/>
             </owl:Restriction>
         </rdfs:subClassOf>
         <rdfs:subClassOf>
             <owl:Restriction>
-                <owl:onProperty rdf:resource="http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#is"/>
-                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#Observation"/>
-            </owl:Restriction>
-        </rdfs:subClassOf>
-    </owl:Class>
-    
-
-
-    <!-- http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#Context -->
-
-    <owl:Class rdf:about="http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#Context"/>
-    
-
-
-    <!-- http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#Device -->
-
-    <owl:Class rdf:about="http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#Device">
-        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#IoT-Thing"/>
-    </owl:Class>
-    
-
-
-    <!-- http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#Energy -->
-
-    <owl:Class rdf:about="http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#Energy"/>
-    
-
-
-    <!-- http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#FeatureOfInterest -->
-
-    <owl:Class rdf:about="http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#FeatureOfInterest">
-        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#Observation"/>
-    </owl:Class>
-    
-
-
-    <!-- http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#IoT-Thing -->
-
-    <owl:Class rdf:about="http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#IoT-Thing">
-        <rdfs:subClassOf>
-            <owl:Restriction>
-                <owl:onProperty rdf:resource="http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#consumes"/>
-                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#Energy"/>
-            </owl:Restriction>
-        </rdfs:subClassOf>
-        <rdfs:subClassOf>
-            <owl:Restriction>
-                <owl:onProperty rdf:resource="http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#exposes"/>
-                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#Service"/>
-            </owl:Restriction>
-        </rdfs:subClassOf>
-        <rdfs:subClassOf>
-            <owl:Restriction>
-                <owl:onProperty rdf:resource="http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#hasA"/>
-                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#Context"/>
-            </owl:Restriction>
-        </rdfs:subClassOf>
-        <rdfs:subClassOf>
-            <owl:Restriction>
-                <owl:onProperty rdf:resource="http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#hasA"/>
-                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#Lifecycle"/>
-            </owl:Restriction>
-        </rdfs:subClassOf>
-        <rdfs:subClassOf>
-            <owl:Restriction>
-                <owl:onProperty rdf:resource="http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#isUnder"/>
-                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#Observation"/>
+                <owl:onProperty rdf:resource="https://github.com/varuntayur/ontology/blob/main/iotco.owl#is"/>
+                <owl:someValuesFrom rdf:resource="https://github.com/varuntayur/ontology/blob/main/iotco.owl#Observation"/>
             </owl:Restriction>
         </rdfs:subClassOf>
     </owl:Class>
     
 
 
-    <!-- http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#Lifecycle -->
+    <!-- https://github.com/varuntayur/ontology/blob/main/iotco.owl#Context -->
 
-    <owl:Class rdf:about="http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#Lifecycle"/>
+    <owl:Class rdf:about="https://github.com/varuntayur/ontology/blob/main/iotco.owl#Context"/>
     
 
 
-    <!-- http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#Location -->
+    <!-- https://github.com/varuntayur/ontology/blob/main/iotco.owl#Device -->
 
-    <owl:Class rdf:about="http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#Location">
-        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#Context"/>
+    <owl:Class rdf:about="https://github.com/varuntayur/ontology/blob/main/iotco.owl#Device">
+        <rdfs:subClassOf rdf:resource="https://github.com/varuntayur/ontology/blob/main/iotco.owl#IoT-Thing"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/varuntayur/ontology/blob/main/iotco.owl#Energy -->
+
+    <owl:Class rdf:about="https://github.com/varuntayur/ontology/blob/main/iotco.owl#Energy"/>
+    
+
+
+    <!-- https://github.com/varuntayur/ontology/blob/main/iotco.owl#FeatureOfInterest -->
+
+    <owl:Class rdf:about="https://github.com/varuntayur/ontology/blob/main/iotco.owl#FeatureOfInterest">
+        <rdfs:subClassOf rdf:resource="https://github.com/varuntayur/ontology/blob/main/iotco.owl#Observation"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/varuntayur/ontology/blob/main/iotco.owl#IoT-Thing -->
+
+    <owl:Class rdf:about="https://github.com/varuntayur/ontology/blob/main/iotco.owl#IoT-Thing">
         <rdfs:subClassOf>
             <owl:Restriction>
-                <owl:onProperty rdf:resource="http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#hasLatitude"/>
-                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#Point"/>
+                <owl:onProperty rdf:resource="https://github.com/varuntayur/ontology/blob/main/iotco.owl#consumes"/>
+                <owl:someValuesFrom rdf:resource="https://github.com/varuntayur/ontology/blob/main/iotco.owl#Energy"/>
             </owl:Restriction>
         </rdfs:subClassOf>
         <rdfs:subClassOf>
             <owl:Restriction>
-                <owl:onProperty rdf:resource="http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#hasLongitude"/>
+                <owl:onProperty rdf:resource="https://github.com/varuntayur/ontology/blob/main/iotco.owl#exposes"/>
+                <owl:someValuesFrom rdf:resource="https://github.com/varuntayur/ontology/blob/main/iotco.owl#Service"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://github.com/varuntayur/ontology/blob/main/iotco.owl#hasA"/>
+                <owl:someValuesFrom rdf:resource="https://github.com/varuntayur/ontology/blob/main/iotco.owl#Context"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://github.com/varuntayur/ontology/blob/main/iotco.owl#hasA"/>
+                <owl:someValuesFrom rdf:resource="https://github.com/varuntayur/ontology/blob/main/iotco.owl#Lifecycle"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://github.com/varuntayur/ontology/blob/main/iotco.owl#isUnder"/>
+                <owl:someValuesFrom rdf:resource="https://github.com/varuntayur/ontology/blob/main/iotco.owl#Observation"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/varuntayur/ontology/blob/main/iotco.owl#Lifecycle -->
+
+    <owl:Class rdf:about="https://github.com/varuntayur/ontology/blob/main/iotco.owl#Lifecycle"/>
+    
+
+
+    <!-- https://github.com/varuntayur/ontology/blob/main/iotco.owl#Location -->
+
+    <owl:Class rdf:about="https://github.com/varuntayur/ontology/blob/main/iotco.owl#Location">
+        <rdfs:subClassOf rdf:resource="https://github.com/varuntayur/ontology/blob/main/iotco.owl#Context"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://github.com/varuntayur/ontology/blob/main/iotco.owl#hasLatitude"/>
+                <owl:someValuesFrom rdf:resource="https://github.com/varuntayur/ontology/blob/main/iotco.owl#Point"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://github.com/varuntayur/ontology/blob/main/iotco.owl#hasLongitude"/>
                 <owl:qualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:qualifiedCardinality>
-                <owl:onClass rdf:resource="http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#Point"/>
+                <owl:onClass rdf:resource="https://github.com/varuntayur/ontology/blob/main/iotco.owl#Point"/>
             </owl:Restriction>
         </rdfs:subClassOf>
     </owl:Class>
     
 
 
-    <!-- http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#Method -->
+    <!-- https://github.com/varuntayur/ontology/blob/main/iotco.owl#Method -->
 
-    <owl:Class rdf:about="http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#Method">
-        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#Service"/>
+    <owl:Class rdf:about="https://github.com/varuntayur/ontology/blob/main/iotco.owl#Method">
+        <rdfs:subClassOf rdf:resource="https://github.com/varuntayur/ontology/blob/main/iotco.owl#Service"/>
     </owl:Class>
     
 
 
-    <!-- http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#Observation -->
+    <!-- https://github.com/varuntayur/ontology/blob/main/iotco.owl#Observation -->
 
-    <owl:Class rdf:about="http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#Observation"/>
+    <owl:Class rdf:about="https://github.com/varuntayur/ontology/blob/main/iotco.owl#Observation"/>
     
 
 
-    <!-- http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#Point -->
+    <!-- https://github.com/varuntayur/ontology/blob/main/iotco.owl#Point -->
 
-    <owl:Class rdf:about="http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#Point">
-        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#Context"/>
+    <owl:Class rdf:about="https://github.com/varuntayur/ontology/blob/main/iotco.owl#Point">
+        <rdfs:subClassOf rdf:resource="https://github.com/varuntayur/ontology/blob/main/iotco.owl#Context"/>
         <rdfs:subClassOf>
             <owl:Restriction>
-                <owl:onProperty rdf:resource="http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#longitude"/>
+                <owl:onProperty rdf:resource="https://github.com/varuntayur/ontology/blob/main/iotco.owl#longitude"/>
                 <owl:someValuesFrom rdf:resource="http://www.w3.org/2001/XMLSchema#float"/>
             </owl:Restriction>
         </rdfs:subClassOf>
@@ -300,119 +300,119 @@
     
 
 
-    <!-- http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#Policy -->
+    <!-- https://github.com/varuntayur/ontology/blob/main/iotco.owl#Policy -->
 
-    <owl:Class rdf:about="http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#Policy"/>
+    <owl:Class rdf:about="https://github.com/varuntayur/ontology/blob/main/iotco.owl#Policy"/>
     
 
 
-    <!-- http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#QualityOfService -->
+    <!-- https://github.com/varuntayur/ontology/blob/main/iotco.owl#QualityOfService -->
 
-    <owl:Class rdf:about="http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#QualityOfService">
-        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#Context"/>
+    <owl:Class rdf:about="https://github.com/varuntayur/ontology/blob/main/iotco.owl#QualityOfService">
+        <rdfs:subClassOf rdf:resource="https://github.com/varuntayur/ontology/blob/main/iotco.owl#Context"/>
     </owl:Class>
     
 
 
-    <!-- http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#Role -->
+    <!-- https://github.com/varuntayur/ontology/blob/main/iotco.owl#Role -->
 
-    <owl:Class rdf:about="http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#Role">
-        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#Context"/>
+    <owl:Class rdf:about="https://github.com/varuntayur/ontology/blob/main/iotco.owl#Role">
+        <rdfs:subClassOf rdf:resource="https://github.com/varuntayur/ontology/blob/main/iotco.owl#Context"/>
     </owl:Class>
     
 
 
-    <!-- http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#Service -->
+    <!-- https://github.com/varuntayur/ontology/blob/main/iotco.owl#Service -->
 
-    <owl:Class rdf:about="http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#Service">
+    <owl:Class rdf:about="https://github.com/varuntayur/ontology/blob/main/iotco.owl#Service">
         <rdfs:subClassOf>
             <owl:Restriction>
-                <owl:onProperty rdf:resource="http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#hasContext"/>
-                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#ServiceContext"/>
+                <owl:onProperty rdf:resource="https://github.com/varuntayur/ontology/blob/main/iotco.owl#hasContext"/>
+                <owl:someValuesFrom rdf:resource="https://github.com/varuntayur/ontology/blob/main/iotco.owl#ServiceContext"/>
             </owl:Restriction>
         </rdfs:subClassOf>
         <rdfs:subClassOf>
             <owl:Restriction>
-                <owl:onProperty rdf:resource="http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#hasMethod"/>
-                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#Method"/>
+                <owl:onProperty rdf:resource="https://github.com/varuntayur/ontology/blob/main/iotco.owl#hasMethod"/>
+                <owl:someValuesFrom rdf:resource="https://github.com/varuntayur/ontology/blob/main/iotco.owl#Method"/>
             </owl:Restriction>
         </rdfs:subClassOf>
         <rdfs:subClassOf>
             <owl:Restriction>
-                <owl:onProperty rdf:resource="http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#hasPolicy"/>
-                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#ServicePolicy"/>
+                <owl:onProperty rdf:resource="https://github.com/varuntayur/ontology/blob/main/iotco.owl#hasPolicy"/>
+                <owl:someValuesFrom rdf:resource="https://github.com/varuntayur/ontology/blob/main/iotco.owl#ServicePolicy"/>
             </owl:Restriction>
         </rdfs:subClassOf>
     </owl:Class>
     
 
 
-    <!-- http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#ServiceContext -->
+    <!-- https://github.com/varuntayur/ontology/blob/main/iotco.owl#ServiceContext -->
 
-    <owl:Class rdf:about="http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#ServiceContext">
-        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#Context"/>
-        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#Service"/>
+    <owl:Class rdf:about="https://github.com/varuntayur/ontology/blob/main/iotco.owl#ServiceContext">
+        <rdfs:subClassOf rdf:resource="https://github.com/varuntayur/ontology/blob/main/iotco.owl#Context"/>
+        <rdfs:subClassOf rdf:resource="https://github.com/varuntayur/ontology/blob/main/iotco.owl#Service"/>
     </owl:Class>
     
 
 
-    <!-- http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#ServicePolicy -->
+    <!-- https://github.com/varuntayur/ontology/blob/main/iotco.owl#ServicePolicy -->
 
-    <owl:Class rdf:about="http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#ServicePolicy">
-        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#Policy"/>
-        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#Service"/>
+    <owl:Class rdf:about="https://github.com/varuntayur/ontology/blob/main/iotco.owl#ServicePolicy">
+        <rdfs:subClassOf rdf:resource="https://github.com/varuntayur/ontology/blob/main/iotco.owl#Policy"/>
+        <rdfs:subClassOf rdf:resource="https://github.com/varuntayur/ontology/blob/main/iotco.owl#Service"/>
     </owl:Class>
     
 
 
-    <!-- http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#SoftwareAgent -->
+    <!-- https://github.com/varuntayur/ontology/blob/main/iotco.owl#SoftwareAgent -->
 
-    <owl:Class rdf:about="http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#SoftwareAgent">
-        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#IoT-Thing"/>
+    <owl:Class rdf:about="https://github.com/varuntayur/ontology/blob/main/iotco.owl#SoftwareAgent">
+        <rdfs:subClassOf rdf:resource="https://github.com/varuntayur/ontology/blob/main/iotco.owl#IoT-Thing"/>
     </owl:Class>
     
 
 
-    <!-- http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#States -->
+    <!-- https://github.com/varuntayur/ontology/blob/main/iotco.owl#States -->
 
-    <owl:Class rdf:about="http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#States">
-        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#Lifecycle"/>
+    <owl:Class rdf:about="https://github.com/varuntayur/ontology/blob/main/iotco.owl#States">
+        <rdfs:subClassOf rdf:resource="https://github.com/varuntayur/ontology/blob/main/iotco.owl#Lifecycle"/>
     </owl:Class>
     
 
 
-    <!-- http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#Time -->
+    <!-- https://github.com/varuntayur/ontology/blob/main/iotco.owl#Time -->
 
-    <owl:Class rdf:about="http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#Time">
-        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#Context"/>
+    <owl:Class rdf:about="https://github.com/varuntayur/ontology/blob/main/iotco.owl#Time">
+        <rdfs:subClassOf rdf:resource="https://github.com/varuntayur/ontology/blob/main/iotco.owl#Context"/>
     </owl:Class>
     
 
 
-    <!-- http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#User -->
+    <!-- https://github.com/varuntayur/ontology/blob/main/iotco.owl#User -->
 
-    <owl:Class rdf:about="http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#User">
+    <owl:Class rdf:about="https://github.com/varuntayur/ontology/blob/main/iotco.owl#User">
         <rdfs:subClassOf>
             <owl:Restriction>
-                <owl:onProperty rdf:resource="http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#observes"/>
-                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#FeatureOfInterest"/>
+                <owl:onProperty rdf:resource="https://github.com/varuntayur/ontology/blob/main/iotco.owl#observes"/>
+                <owl:someValuesFrom rdf:resource="https://github.com/varuntayur/ontology/blob/main/iotco.owl#FeatureOfInterest"/>
             </owl:Restriction>
         </rdfs:subClassOf>
         <rdfs:subClassOf>
             <owl:Restriction>
-                <owl:onProperty rdf:resource="http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#password"/>
+                <owl:onProperty rdf:resource="https://github.com/varuntayur/ontology/blob/main/iotco.owl#password"/>
                 <owl:someValuesFrom rdf:resource="http://www.w3.org/2001/XMLSchema#byte"/>
             </owl:Restriction>
         </rdfs:subClassOf>
         <rdfs:subClassOf>
             <owl:Restriction>
-                <owl:onProperty rdf:resource="http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#roleName"/>
+                <owl:onProperty rdf:resource="https://github.com/varuntayur/ontology/blob/main/iotco.owl#roleName"/>
                 <owl:someValuesFrom rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
             </owl:Restriction>
         </rdfs:subClassOf>
         <rdfs:subClassOf>
             <owl:Restriction>
-                <owl:onProperty rdf:resource="http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#userName"/>
+                <owl:onProperty rdf:resource="https://github.com/varuntayur/ontology/blob/main/iotco.owl#userName"/>
                 <owl:someValuesFrom rdf:resource="http://www.w3.org/2001/XMLSchema#Name"/>
             </owl:Restriction>
         </rdfs:subClassOf>
@@ -431,10 +431,10 @@
     
 
 
-    <!-- http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#getTemperature -->
+    <!-- https://github.com/varuntayur/ontology/blob/main/iotco.owl#getTemperature -->
 
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#getTemperature">
-        <rdf:type rdf:resource="http://www.semanticweb.org/tayur/ontologies/2018/8/iot-co#Method"/>
+    <owl:NamedIndividual rdf:about="https://github.com/varuntayur/ontology/blob/main/iotco.owl#getTemperature">
+        <rdf:type rdf:resource="https://github.com/varuntayur/ontology/blob/main/iotco.owl#Method"/>
     </owl:NamedIndividual>
 </rdf:RDF>
 
